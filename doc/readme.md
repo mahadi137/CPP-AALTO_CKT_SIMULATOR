@@ -1,6 +1,6 @@
 # Contents
 
-The actual project documentation in PDF format must be commited in this folder before the deadline.
+The actual project documentation in PDF format must be committed in this folder before the deadline.
 Separate PDF document needs to be provided also if your project uses Doxygen for inline documentation.
 
 The document should contain the following parts:
